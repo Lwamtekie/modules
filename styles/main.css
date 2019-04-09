@@ -1,3 +1,7 @@
 body{
     background-color: lightsalmon;
 }
+.bookcover {
+    max-width: 200rem;
+    height: 200rem;
+}

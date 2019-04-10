@@ -1,13 +1,12 @@
 const bookInfo = {
     price: 24.99,
-    title: 'FIFTYSHADES OF CHICKEN',
+    title: 'My friend',
     image: './assets/book.jpg'
-}
-
-const getBook = () => {
+  };
+  
+  const getBook = () => {
     return bookInfo;
-};
-
-export default {getBook};
-
-
+  };
+  
+  export default { getBook };
+  

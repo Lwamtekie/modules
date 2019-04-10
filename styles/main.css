@@ -1,7 +1,16 @@
-body{
-    background-color: lightsalmon;
+body {
+    background-color:snow;
+    
 }
-.bookcover {
-    max-width: 200rem;
-    height: 200rem;
+
+.main-title {
+    text-align: center;
 }
+
+.bookImg {
+    max-height: 100px;
+}
+
+.btn {
+    width: 200px;
+} 
